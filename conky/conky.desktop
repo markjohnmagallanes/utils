@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Conky
+GenericName=System Background Monitor
+Comment=Start Conky on startup
+Exec=conky &
+Terminal=false
+Type=Application
+Icon=conky
+Categories=System;
+StartupNotify=false
+X-GNOME-Autostart-Delay=30
